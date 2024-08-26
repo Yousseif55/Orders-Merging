@@ -12,16 +12,6 @@
 - **Order Notes:** Automatically add notes to track the merging process.
 - **HPOS Compatibility:** Works with High-Performance Order Storage.
 
-## Installation
-
-1. **Download the Plugin:**
-   Download the plugin ZIP file or clone the repository.
-
-2. **Upload the Plugin:**
-   - Go to the WordPress admin dashboard.
-   - Navigate to `Plugins` > `Add New`.
-   - Click `Upload Plugin` and choose the downloaded ZIP file.
-   - Click `Install Now` and then `Activate Plugin`.
 
 ## Usage
 
